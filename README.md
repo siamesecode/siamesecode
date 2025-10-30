@@ -1,5 +1,3 @@
- 🐱 Siamese Code
-
 ### *Crafting Digital Experiences with Elegance*
 
 [![Profile Views](https://komarev.com/ghpvc/?username=siamesecode&color=blueviolet&style=for-the-badge&label=VISITORS)](https://github.com/siamesecode)
@@ -105,7 +103,7 @@ interface OurServices {
 ### 😺 Bugado Co-Founder and CEO
 
 <!-- Adicione a foto do seu gato aqui -->
-<img src="" width="300" style="border-radius: 15px; border: 3px solid #8b5cf6;" alt="Our Siamese Cat">
+<img src="./assets/bugado-co-founder.png" width="300" style="border-radius: 15px; border: 3px solid #8b5cf6;" alt="Our Siamese Cat">
 
 *"Every great cat has a devoted developer companion."*
 
