@@ -18,9 +18,9 @@
 
 ---
 
-## 🚀 Sobre Nós
+## 🚀 About Us
 
-Somos uma **startup** focada em criar experiências digitais incríveis. Combinamos **design moderno**, **desenvolvimento de alta performance** e **inovação tecnológica** para transformar ideias em realidade.
+We are a startup focused on creating amazing digital experiences. We combine modern design, high-performance development, and technological innovation to turn ideas into reality.
 
 ```javascript
 const siameseCode = {
