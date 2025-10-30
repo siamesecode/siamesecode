@@ -87,11 +87,11 @@ interface OurServices {
 }
 ```
 
-🌐 Web Development – Responsive and high-performance websites and web applications
-🎨 UI/UX Design – Elegant and intuitive user interfaces
-🎮 3D Experiences – Interactive experiences built with Three.js
-⚡ Performance Optimization – Optimized code and lightning-fast loading
-📱 Responsive Design – Perfect on any device
+🌐 Web Development – Responsive and high-performance websites and web applications.
+🎨 UI/UX Design – Elegant and intuitive user interfaces.
+🎮 3D Experiences – Interactive experiences built with Three.js.
+⚡ Performance Optimization – Optimized code and lightning-fast loading.
+📱 Responsive Design – Perfect on any device.
 ---
 
 ## 🐾 Meet Our Mascot
