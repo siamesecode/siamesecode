@@ -118,7 +118,7 @@ interface OurServices {
 ### 😺 The Siamese Cat Behind the Code
 
 <!-- Adicione a foto do seu gato aqui -->
-<img src="URL_DA_FOTO_DO_GATO_AQUI" width="300" style="border-radius: 15px; border: 3px solid #8b5cf6;" alt="Our Siamese Cat">
+<img src="" width="300" style="border-radius: 15px; border: 3px solid #8b5cf6;" alt="Our Siamese Cat">
 
 *"Every great coder needs a furry companion"*
 
@@ -128,59 +128,7 @@ interface OurServices {
 
 ---
 
-## 📫 Get In Touch
 
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://siamesecode.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@siamesecode.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/siamesecode)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/siamesecode)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.siamesecode.dev)
-
-</div>
-
----
-
-## 📈 Coding Activity
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-![Code Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=siamesecode&theme=tokyonight&utcOffset=-3)
-
-</div>
-
----
-
-## 🎨 Featured Projects
-
-<div align="center">
-
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=siamesecode&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/siamesecode/portfolio)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-### ☕ Support Us
-
-If you like our work, consider supporting us!
-
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/siamesecode)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/siamesecode)
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%">
 
@@ -189,17 +137,3 @@ If you like our work, consider supporting us!
 </div>
 
 
-<!--
-**siamesecode/siamesecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
