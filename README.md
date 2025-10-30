@@ -6,8 +6,6 @@
 
 ---
 
-<img src="https://github.com/siamesecode.png" width="200" style="border-radius: 50%; border: 4px solid #6366f1;" alt="Siamese Code Logo">
-
 ### 👋 Welcome to Siamese Code Repository!
 
 *Where code meets creativity, and every line tells a story.*
