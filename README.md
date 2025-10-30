@@ -33,25 +33,9 @@ const siameseCode = {
 
 ---
 
-## 📊 GitHub Metrics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siamesecode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=siamesecode&theme=tokyonight&hide_border=true&background=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siamesecode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8)
-
 ### 📈 Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siamesecode&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=8b5cf6&point=c084fc)](https://github.com/siamesecode)
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=siamesecode&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
