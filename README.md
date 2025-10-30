@@ -107,9 +107,9 @@ interface OurServices {
 <!-- Adicione a foto do seu gato aqui -->
 <img src="" width="300" style="border-radius: 15px; border: 3px solid #8b5cf6;" alt="Our Siamese Cat">
 
-*"Every great coder needs a furry companion"*
+*"Every great cat has a devoted developer companion."*
 
-**Fun Fact:** Our mascot supervises every line of code and ensures maximum quality through strategic keyboard sitting and motivational meowing! 🐱‍💻
+
 
 </div>
 
@@ -119,7 +119,7 @@ interface OurServices {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%">
 
-**© 2025 Siamese Code. Made with ❤️ and ☕**
+**© 2025 Siamese Code. 
 
 </div>
 
