@@ -102,7 +102,7 @@ interface OurServices {
 
 <div align="center">
 
-### 😺 The Siamese Cat Behind the Code
+### 😺 Bugado Co-Founder and CEO
 
 <!-- Adicione a foto do seu gato aqui -->
 <img src="" width="300" style="border-radius: 15px; border: 3px solid #8b5cf6;" alt="Our Siamese Cat">
